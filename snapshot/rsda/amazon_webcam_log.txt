@@ -1,0 +1,112 @@
+
+---time:0---
+iter: 00049, 	 precision: 0.8503,	 best_acc:0.8503
+iter: 00099, 	 precision: 0.9145,	 best_acc:0.9145
+iter: 00149, 	 precision: 0.9296,	 best_acc:0.9296
+iter: 00199, 	 precision: 0.9396,	 best_acc:0.9396
+iter: 00249, 	 precision: 0.9409,	 best_acc:0.9409
+iter: 00299, 	 precision: 0.9472,	 best_acc:0.9472
+iter: 00349, 	 precision: 0.9472,	 best_acc:0.9472
+iter: 00399, 	 precision: 0.9484,	 best_acc:0.9484
+iter: 00449, 	 precision: 0.9497,	 best_acc:0.9497
+iter: 00499, 	 precision: 0.9484,	 best_acc:0.9497
+iter: 00549, 	 precision: 0.9497,	 best_acc:0.9497
+iter: 00599, 	 precision: 0.9522,	 best_acc:0.9522
+iter: 00649, 	 precision: 0.9535,	 best_acc:0.9535
+iter: 00699, 	 precision: 0.9509,	 best_acc:0.9535
+iter: 00749, 	 precision: 0.9509,	 best_acc:0.9535
+iter: 00799, 	 precision: 0.9522,	 best_acc:0.9535
+iter: 00849, 	 precision: 0.9547,	 best_acc:0.9547
+iter: 00899, 	 precision: 0.9535,	 best_acc:0.9547
+iter: 00949, 	 precision: 0.9522,	 best_acc:0.9547
+iter: 00999, 	 precision: 0.9535,	 best_acc:0.9547
+
+---time:1---
+iter: 00049, 	 precision: 0.8440,	 best_acc:0.8440
+iter: 00099, 	 precision: 0.9371,	 best_acc:0.9371
+iter: 00149, 	 precision: 0.9195,	 best_acc:0.9371
+iter: 00199, 	 precision: 0.9346,	 best_acc:0.9371
+iter: 00249, 	 precision: 0.9384,	 best_acc:0.9384
+iter: 00299, 	 precision: 0.9421,	 best_acc:0.9421
+iter: 00349, 	 precision: 0.9459,	 best_acc:0.9459
+iter: 00399, 	 precision: 0.9472,	 best_acc:0.9472
+iter: 00449, 	 precision: 0.9472,	 best_acc:0.9472
+iter: 00499, 	 precision: 0.9497,	 best_acc:0.9497
+iter: 00549, 	 precision: 0.9535,	 best_acc:0.9535
+iter: 00599, 	 precision: 0.9522,	 best_acc:0.9535
+iter: 00649, 	 precision: 0.9547,	 best_acc:0.9547
+iter: 00699, 	 precision: 0.9572,	 best_acc:0.9572
+iter: 00749, 	 precision: 0.9585,	 best_acc:0.9585
+iter: 00799, 	 precision: 0.9585,	 best_acc:0.9585
+iter: 00849, 	 precision: 0.9560,	 best_acc:0.9585
+iter: 00899, 	 precision: 0.9560,	 best_acc:0.9585
+iter: 00949, 	 precision: 0.9560,	 best_acc:0.9585
+iter: 00999, 	 precision: 0.9547,	 best_acc:0.9585
+
+---time:2---
+iter: 00049, 	 precision: 0.8440,	 best_acc:0.8440
+iter: 00099, 	 precision: 0.9384,	 best_acc:0.9384
+iter: 00149, 	 precision: 0.9308,	 best_acc:0.9384
+iter: 00199, 	 precision: 0.9346,	 best_acc:0.9384
+iter: 00249, 	 precision: 0.9358,	 best_acc:0.9384
+iter: 00299, 	 precision: 0.9409,	 best_acc:0.9409
+iter: 00349, 	 precision: 0.9459,	 best_acc:0.9459
+iter: 00399, 	 precision: 0.9459,	 best_acc:0.9459
+iter: 00449, 	 precision: 0.9434,	 best_acc:0.9459
+iter: 00499, 	 precision: 0.9447,	 best_acc:0.9459
+iter: 00549, 	 precision: 0.9497,	 best_acc:0.9497
+iter: 00599, 	 precision: 0.9472,	 best_acc:0.9497
+iter: 00649, 	 precision: 0.9484,	 best_acc:0.9497
+iter: 00699, 	 precision: 0.9522,	 best_acc:0.9522
+iter: 00749, 	 precision: 0.9509,	 best_acc:0.9522
+iter: 00799, 	 precision: 0.9497,	 best_acc:0.9522
+iter: 00849, 	 precision: 0.9509,	 best_acc:0.9522
+iter: 00899, 	 precision: 0.9497,	 best_acc:0.9522
+iter: 00949, 	 precision: 0.9535,	 best_acc:0.9535
+iter: 00999, 	 precision: 0.9535,	 best_acc:0.9535
+
+---time:3---
+iter: 00049, 	 precision: 0.8629,	 best_acc:0.8629
+iter: 00099, 	 precision: 0.9296,	 best_acc:0.9296
+iter: 00149, 	 precision: 0.9434,	 best_acc:0.9434
+iter: 00199, 	 precision: 0.9346,	 best_acc:0.9434
+iter: 00249, 	 precision: 0.9396,	 best_acc:0.9434
+iter: 00299, 	 precision: 0.9447,	 best_acc:0.9447
+iter: 00349, 	 precision: 0.9472,	 best_acc:0.9472
+iter: 00399, 	 precision: 0.9535,	 best_acc:0.9535
+iter: 00449, 	 precision: 0.9509,	 best_acc:0.9535
+iter: 00499, 	 precision: 0.9535,	 best_acc:0.9535
+iter: 00549, 	 precision: 0.9535,	 best_acc:0.9535
+iter: 00599, 	 precision: 0.9585,	 best_acc:0.9585
+iter: 00649, 	 precision: 0.9597,	 best_acc:0.9597
+iter: 00699, 	 precision: 0.9585,	 best_acc:0.9597
+iter: 00749, 	 precision: 0.9597,	 best_acc:0.9597
+iter: 00799, 	 precision: 0.9585,	 best_acc:0.9597
+iter: 00849, 	 precision: 0.9585,	 best_acc:0.9597
+iter: 00899, 	 precision: 0.9560,	 best_acc:0.9597
+iter: 00949, 	 precision: 0.9585,	 best_acc:0.9597
+iter: 00999, 	 precision: 0.9585,	 best_acc:0.9597
+
+---time:4---
+iter: 00049, 	 precision: 0.8465,	 best_acc:0.8465
+iter: 00099, 	 precision: 0.9270,	 best_acc:0.9270
+iter: 00149, 	 precision: 0.9333,	 best_acc:0.9333
+iter: 00199, 	 precision: 0.9409,	 best_acc:0.9409
+iter: 00249, 	 precision: 0.9484,	 best_acc:0.9484
+iter: 00299, 	 precision: 0.9522,	 best_acc:0.9522
+iter: 00349, 	 precision: 0.9459,	 best_acc:0.9522
+iter: 00399, 	 precision: 0.9509,	 best_acc:0.9522
+iter: 00449, 	 precision: 0.9547,	 best_acc:0.9547
+iter: 00499, 	 precision: 0.9560,	 best_acc:0.9560
+iter: 00549, 	 precision: 0.9535,	 best_acc:0.9560
+iter: 00599, 	 precision: 0.9572,	 best_acc:0.9572
+iter: 00649, 	 precision: 0.9585,	 best_acc:0.9585
+iter: 00699, 	 precision: 0.9585,	 best_acc:0.9585
+iter: 00749, 	 precision: 0.9572,	 best_acc:0.9585
+iter: 00799, 	 precision: 0.9597,	 best_acc:0.9597
+iter: 00849, 	 precision: 0.9585,	 best_acc:0.9597
+iter: 00899, 	 precision: 0.9560,	 best_acc:0.9597
+iter: 00949, 	 precision: 0.9572,	 best_acc:0.9597
+iter: 00999, 	 precision: 0.9572,	 best_acc:0.9597
+
+best_acc:0.9597
