@@ -1,0 +1,112 @@
+
+---time:0---
+iter: 00049, 	 precision: 0.9920,	 best_acc:0.9920
+iter: 00099, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00149, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00199, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00249, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00299, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00349, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00399, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00449, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00499, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00549, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00599, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00649, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00699, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00749, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00799, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00849, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00899, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00949, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00999, 	 precision: 0.9980,	 best_acc:1.0000
+
+---time:1---
+iter: 00049, 	 precision: 0.9900,	 best_acc:0.9900
+iter: 00099, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00149, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00199, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00249, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00299, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00349, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00399, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00449, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00499, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00549, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00599, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00649, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00699, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00749, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00799, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00849, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00899, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00949, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00999, 	 precision: 1.0000,	 best_acc:1.0000
+
+---time:2---
+iter: 00049, 	 precision: 0.9960,	 best_acc:0.9960
+iter: 00099, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00149, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00199, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00249, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00299, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00349, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00399, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00449, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00499, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00549, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00599, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00649, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00699, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00749, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00799, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00849, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00899, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00949, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00999, 	 precision: 1.0000,	 best_acc:1.0000
+
+---time:3---
+iter: 00049, 	 precision: 0.9920,	 best_acc:0.9920
+iter: 00099, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00149, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00199, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00249, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00299, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00349, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00399, 	 precision: 1.0000,	 best_acc:1.0000
+iter: 00449, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00499, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00549, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00599, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00649, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00699, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00749, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00799, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00849, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00899, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00949, 	 precision: 0.9980,	 best_acc:1.0000
+iter: 00999, 	 precision: 0.9980,	 best_acc:1.0000
+
+---time:4---
+iter: 00049, 	 precision: 0.9900,	 best_acc:0.9900
+iter: 00099, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00149, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00199, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00249, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00299, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00349, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00399, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00449, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00499, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00549, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00599, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00649, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00699, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00749, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00799, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00849, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00899, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00949, 	 precision: 0.9980,	 best_acc:0.9980
+iter: 00999, 	 precision: 0.9980,	 best_acc:0.9980
+
+best_acc:1.0000
